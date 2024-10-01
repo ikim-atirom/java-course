@@ -1,7 +1,1 @@
-# Ignore specific directories
-AppData/
-Documents/
-Cookies/
-My Documents/
-.bash_history
-.gitconfig
+
